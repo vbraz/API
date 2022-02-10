@@ -1,4 +1,4 @@
-{
+[{
 	"1":[
 		{ "day": "01", "text": "Ano-Novo" },
 		{ "day": "01", "text": "Dia da Confraternização Universal" },
@@ -72,7 +72,7 @@
 		{ "day": "31", "text": "Dia Nacional de Combate e Prevenção da Hanseníase" },
 		{ "day": "31", "text": "Dia Nacional das Reservas Particulares do Patrimônio Natural" },
 		{ "day": "31", "text": "Dia do Engenheiro Ambiental" }
-	],
+	]},{
 	"2":[
 		{ "day": "01", "text": "Dia do Publicitário" },
 		{ "day": "02", "text": "Dia de Iemanjá" },
@@ -132,7 +132,7 @@
 		{ "day": "28", "text": "Dia Mundial da Doença Rara" },
 		{ "day": "28", "text": "Dia de São Romão e Lupicino" },
 		{ "day": "28", "text": "Dia Mundial de combate a LER/DORT" }
-	],
+	]},{
 	"3":[
 		{ "day": "01", "text": "Aniversário do Rio de Janeiro" },
 		{ "day": "01", "text": "Dia Mundial de Zero Discriminação" },
@@ -215,7 +215,7 @@
 		{ "day": "30", "text": "Dia Mundial do Transtorno Bipolar" },
 		{ "day": "31", "text": "Dia da Saúde e Nutrição" },
 		{ "day": "31", "text": "Dia da Integração Nacional" }
-	],
+	]},{
 	"4":[
 		{ "day": "01", "text": "Quinta-feira santa" },
 		{ "day": "01", "text": "Dia da Mentira - 1º de Abril" },
@@ -335,7 +335,7 @@
 		{ "day": "30", "text": "Dia Nacional da Mulher" },
 		{ "day": "30", "text": "Dia do Ferroviário" },
 		{ "day": "30", "text": "Dia Internacional do Jazz" }
-	],
+	]},{
 	"5":[
 		{ "day": "01", "text": "Dia do Trabalho" },
 		{ "day": "01", "text": "Dia da Literatura Brasileira" },
@@ -478,7 +478,7 @@
 		{ "day": "31", "text": "Dia da Aeromoça" },
 		{ "day": "31", "text": "Dia Mundial de Combate ao Fumo" },
 		{ "day": "31", "text": "Dia do Aeroporto" }
-	],
+	]},{
 	"6":[
 		{ "day": "01", "text": "Semana do Meio Ambiente" },
 		{ "day": "01", "text": "Dia da Imprensa" },
@@ -600,7 +600,7 @@
 		{ "day": "30", "text": "Dia da Mídia Social" },
 		{ "day": "30", "text": "Dia Nacional do Bumba Meu Boi" },
 		{ "day": "30", "text": "Dia Nacional do Fiscal Federal Agropecuário" }
-	],
+	]},{
 	"7":[
 		{ "day": "01", "text": "Dia de Santo Aarão" },
 		{ "day": "01", "text": "Dia Mundial da Arquitetura" },
@@ -689,7 +689,7 @@
 		{ "day": "31", "text": "Dia do Orgasmo" },
 		{ "day": "31", "text": "Dia de Santo Inácio de Loyola" },
 		{ "day": "31", "text": "Dia Mundial do Guarda-Florestal" }
-	],
+	]},{
 	"8":[
 		{ "day": "01", "text": "Dia Nacional do Selo" },
 		{ "day": "01", "text": "Dia Nacional dos Portadores de Vitiligo" },
@@ -808,7 +808,7 @@
 		{ "day": "31", "text": "Dia do Nutricionista" },
 		{ "day": "31", "text": "Dia de São Raimundo Nonato" },
 		{ "day": "31", "text": "Dia Internacional do Blog" }
-	],
+	]},{
 	"9":[
 		{ "day": "01", "text": "Dia do Profissional de Educação Física" },
 		{ "day": "01", "text": "Dia do Corinthians" },
@@ -935,7 +935,7 @@
 		{ "day": "30", "text": "Dia Marítimo Mundial" },
 		{ "day": "30", "text": "Dia Nacional do Jornaleiro" },
 		{ "day": "30", "text": "Dia Mundial do Tradutor" }
-	],
+	]},{
 	"10":[
 		{ "day": "01", "text": "Dia Internacional da Música" },
 		{ "day": "01", "text": "Dia do Vendedor" },
@@ -1087,7 +1087,7 @@
 		{ "day": "31", "text": "Dia da Dona de Casa" },
 		{ "day": "31", "text": "Dia Nacional da Proclamação do Evangelho" },
 		{ "day": "31", "text": "Dia Mundial das Cidades" }
-	],
+	]},{
 	"11":[
 		{ "day": "01", "text": "Dia de Todos os Santos" },
 		{ "day": "01", "text": "Dia Mundial do Veganismo" },
@@ -1184,7 +1184,7 @@
 		{ "day": "30", "text": "Dia do Evangélico" },
 		{ "day": "30", "text": "Dia da Amizade Argentino-Brasileira" },
 		{ "day": "30", "text": "Dia de Celebração da Amizade Brasil-Argentina" }
-	],
+	]},{
 	"12":[
 		{ "day": "01", "text": "Dia Internacional da Luta contra a AIDS" },
 		{ "day": "01", "text": "Dia do Numismata" },
@@ -1281,4 +1281,4 @@
 		{ "day": "28", "text": "Dia da Marinha Mercante" },
 		{ "day": "31", "text": "Dia de São Silvestre" }
 	]
-}
+}]
