@@ -1,5 +1,5 @@
 [{
-	"1":[
+	"janeiro":[
 		{ "day": "01", "text": "Ano-Novo" },
 		{ "day": "01", "text": "Dia da Confraternização Universal" },
 		{ "day": "01", "text": "Dia Mundial da Paz" },
@@ -73,7 +73,7 @@
 		{ "day": "31", "text": "Dia Nacional das Reservas Particulares do Patrimônio Natural" },
 		{ "day": "31", "text": "Dia do Engenheiro Ambiental" }
 	]},{
-	"2":[
+	"fevereiro":[
 		{ "day": "01", "text": "Dia do Publicitário" },
 		{ "day": "02", "text": "Dia de Iemanjá" },
 		{ "day": "02", "text": "Dia de Nossa Senhora dos Navegantes" },
